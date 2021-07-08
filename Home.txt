@@ -5,13 +5,7 @@ Creation-Date: 2021-07-06T08:33:49-05:00
 ====== Home ======
 Created Tuesday 06 July 2021
 
-New text
-More new text.....
-Testing...testing...  
-| Column 1 |   |   |   |   |
-|:---------|:--|:--|:--|:--|
-| 1        |   |   |   |   |
-| 2        |   |   |   |   |
-| 3        |   |   |   |   |
-| 4        |   |   |   |   |
-| 5        |   |   |   |   |
+Christianity Apologetics Questions
+1. [[Truth about reality is knowable]]
+
+
