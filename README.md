@@ -1,3 +1,3 @@
 # BibleAQs
 
-New Note
+New Notes
